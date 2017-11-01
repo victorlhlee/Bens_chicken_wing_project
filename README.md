@@ -1,4 +1,4 @@
-### BIG DATA ANALYST PROJECT TEMPLATES ###
+## HELLO! WELCOME TO MY GITHUB REPOSITORY
 
 Name: Victoria __"Tori"__ Larson
 
@@ -12,10 +12,10 @@ How  many siblings do you have? __2 siblings; a brother and a sister__
 
 Name your *3* favorite activities:  
 - Hiking
-- Eating 
+- Eating
 - Swimming
 
 What was the
 last movie you watched? __Never let me go.__
 
-What book are you currently reading? __The Japanese Lover__
+What book are you currently reading? *__The Japanese Lover__*
