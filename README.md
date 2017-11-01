@@ -1,21 +1,6 @@
-## HELLO! WELCOME TO MY GITHUB REPOSITORY
+## Chicken wing spans in relation to their Jurassic Ancestors
+__October 31, 2017__
 
-Name: Victoria __"Tori"__ Larson
+**Author:** Victoria Larson
 
-Where do you *currently* live: __Honolulu, HI__
-
-Where did you grow up: __Ogden, UT__
-
-Do you have pets? __Yes, a fish named Franklin__
-
-How  many siblings do you have? __2 siblings; a brother and a sister__
-
-Name your *3* favorite activities:  
-- Hiking
-- Eating
-- Swimming
-
-What was the
-last movie you watched? __Never let me go.__
-
-What book are you currently reading? *__The Japanese Lover__*
+__*Project Description:*__ Analyzing present day *Chicken's* wing spans in comparison to Jurassic era *Dinosaurs.*
