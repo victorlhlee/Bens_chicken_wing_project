@@ -1,6 +1,14 @@
-## Chicken wing spans in relation to their Jurassic Ancestors
-__October 31, 2017__
 
-**Author:** Victoria Larson
 
-__*Project Description:*__ Analyzing present day *Chicken's* wing spans in comparison to Jurassic era *Dinosaurs.*
+
+
+
+
+### [Insert Title Here] For example: Chicken wing spans in relation to their Jurassic Ancestors
+
+[Insert Date Here]:
+
+**Author:** [Author Name Here]
+
+
+__*Project Description:*__ [Project Description Here] For example: Analyzing present day *Chicken's* wing spans in comparison to Jurassic era *Dinosaurs.*
