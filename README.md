@@ -1,4 +1,14 @@
+### Instructions for cloning this project template
 
+1. Follow this [Link](https://github.com/ToriLarson/BDA_Project_Template)
+2. On the right hand side of the screen click the green "Clone or download" drop down.
+3. Click "open in Desktop"
+  - Your Github Desktop app will open
+  - Make sure the "URL" tab is in use.
+4. Go to the section where it says "local path" and choose where you would like your repository to be. ie Documents or Desktop.
+5. Click "clone"
+  - This will clone your repository to your local computer and will move it to the folder that you have directed it to.
+6. 
 
 
 
