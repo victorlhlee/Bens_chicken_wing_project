@@ -9,7 +9,13 @@
 5. Click "clone"
   - This will clone your repository to your local computer and will move it to the folder that you have directed it to.
 6. You should now have the repository folder in the location that you placed it.
-7. You can now push the folder to your own personal github! You do this by going to the Github desktop app and in the top middle of the page click ""
+7. You can now push the folder to your own personal github!
+8. Before pushing the repository you must first commit the change. In the bottom left hand corner of the page type something in the summary section such as "testing". You will then be able to commit the changes.
+9. Once the work is committed - go to the section in the top middle of the desktop app and click "push orgin"
+10. Congratulations! you have pushed your repository to your github page! You can now go to your github site and look at your work online!
+
+
+__Note:__ Below is the template you will be using for all of your projects! Just clone this tutorial every time you start a new project! But be sure to delete the above instructions before turning in your project!
 
 
 
