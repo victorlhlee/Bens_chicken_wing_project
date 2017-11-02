@@ -8,7 +8,8 @@
 4. Go to the section where it says "local path" and choose where you would like your repository to be. ie Documents or Desktop.
 5. Click "clone"
   - This will clone your repository to your local computer and will move it to the folder that you have directed it to.
-6. 
+6. You should now have the repository folder in the location that you placed it.
+7. You can now push the folder to your own personal github! You do this by going to the Github desktop app and in the top middle of the page click ""
 
 
 
